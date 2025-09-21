@@ -1,5 +1,15 @@
 # Cloud Enabled Deployment In Action with GCP and AWS
 
+- Name: Theekshana Dilshan
+- Student ID: 2301671055
+- Email: sptheekshanadilshan@gmail.com
+
+## Course-service DB Setup(Google Cloud SQL)
+
+#### **Video Link**
+
+[Watch the full demo here:]()
+
 This repository contains four projects:
 
 - course-service (Spring Boot + MySQL)
