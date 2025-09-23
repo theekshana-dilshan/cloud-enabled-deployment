@@ -1,14 +1,14 @@
-# Cloud Enabled Deployment In Action with GCP and AWS
+# Cloud Enabled Deployment In Action with GCP,Azure and AWS
 
 - Name: Theekshana Dilshan
 - Student ID: 2301671055
 - Email: sptheekshanadilshan@gmail.com
 
-## Course-service DB Setup(Google Cloud SQL)
+## Course-service DB Setup(Azure)
 
 #### **Video Link**
 
-[Watch the full demo here:](https://drive.google.com/file/d/1AwYJxYz4x6zqM5izCjzeqlKZIcP6V1ky/view?usp=sharing)
+[Watch the full demo here: 👈](https://drive.google.com/file/d/1hq1afHdFJm3odfSnPVD_LZwQB6wmRVyv/view?usp=sharing)
 
 This repository contains four projects:
 
